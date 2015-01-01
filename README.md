@@ -6,8 +6,7 @@ Riot Games Api is a Java wrapper for the [Riot's API](). A simple client to acce
 
 **Riot Games Api** requires the following libraries:
 - [Google Gson](https://code.google.com/p/google-gson/)
-- [Square OKHTTP]()
-- [Okio]()
+- [Square OKHTTP](http://square.github.io/okhttp/)
 
 ##Usage
 
