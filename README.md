@@ -1,6 +1,6 @@
 # Riot Games Api - A Java Riot Games API Wrapper
 
-Riot Games Api is a Java wrapper for the [Riot's API](). A simple client to access League of Legends game data.
+Riot Games Api is a Java wrapper for the [Riot's API](https://developer.riotgames.com/). A simple client to access League of Legends game data.
 
 ##Requirements
 
@@ -51,6 +51,7 @@ The current version of this library supports the following Riot Games API versio
 
 ##Download
 
+[Riot Games Api v1.0.1](https://github.com/JesusTinoco/RiotGamesApi/releases/tag/v1.0.1)
 
 ##Questions/Contributions
 To contact me via email [jesrodtin@alum.us.es](mailto:jesrodtin@alum.us.es).
