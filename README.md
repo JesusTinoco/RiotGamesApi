@@ -10,7 +10,7 @@ Riot Games Api is a Java wrapper for the [Riot's API](). A simple client to acce
 
 ##Usage
 
-'''
+```
 import api.RiotGamesApi;
 import dto.Region;
 import dto.summoner.Summoner;
@@ -33,7 +33,7 @@ public class Example {
     }
 
 }
-'''
+```
 
 ##API Versions
 
