@@ -40,6 +40,10 @@ public class Service {
         return slug;
     }
 
+    /**
+     *
+     * @return Legal values: Online, Alert, Offline, Deploying
+     */
     public String getStatus() {
         return status;
     }

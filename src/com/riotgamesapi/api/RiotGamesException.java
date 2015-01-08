@@ -35,6 +35,9 @@ public class RiotGamesException extends RuntimeException{
             case 401:
                 message = "Unauthorized.";
                 break;
+            case 403:
+                message = "Forbidden.";
+                break;
             case 404:
                 message = "Not Found. The server has not found a match for the API request.";
                 break;

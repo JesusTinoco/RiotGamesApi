@@ -47,6 +47,10 @@ public class Message {
         return id;
     }
 
+    /**
+     *
+     * @return Legal values: Info, Alert, Error
+     */
     public String getSeverity() {
         return severity;
     }

@@ -53,7 +53,7 @@ public class Summoner {
 
     /**
      *
-     * @return Date summoner was last modified specified as epoch milliseconds.
+     * @return Date summoner was last modified specified as epoch milliseconds. The following events will update this timestamp: profile icon change, playing the tutorial or advanced tutorial, finishing a game, summoner name change
      */
     public long getRevisionDate() {
         return revisionDate;
